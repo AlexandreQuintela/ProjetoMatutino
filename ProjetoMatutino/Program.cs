@@ -1,7 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-// Teste no pedido.
+// Teste no pedido. novo
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
